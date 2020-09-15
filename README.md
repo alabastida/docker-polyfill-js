@@ -22,7 +22,7 @@ The official [polyfill.io](https://polyfill.io/v2/docs/) service maintained by t
 
 ## Contributors
 
-<table><thead><tr><th align="center"><a href="https://github.com/fvj"><img src="https://avatars0.githubusercontent.com/u/4746806?v=4" width="100px;" style="max-width:100%;"><br><sub>fvj</sub></a><br></th><th align="center"><a href="https://github.com/igeligel"><img src="https://avatars1.githubusercontent.com/u/12736734?v=4" width="100px;" style="max-width:100%;"><br><sub>igeligel</sub></a><br></th></tbody></table>
+<table><thead><tr><th align="center"><a href="https://github.com/fvj"><img src="https://avatars2.githubusercontent.com/u/1277213?v=4" width="100px;" style="max-width:100%;"><br><sub>alabastida</sub></a><br></th></tbody></table>
 
 ## License
 
