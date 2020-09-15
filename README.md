@@ -1,4 +1,4 @@
-# js-polyfill-docker
+# docker-polyfill-js
 
 > 🐳Docker container for the polyfill.io service to serve JavaScript bundles per browser efficiently.
 
@@ -7,13 +7,13 @@
 Clone this repository and build the image:
 
 ```bash
-docker build . -t js-polyfill-docker
+docker build . -t docker-polyfill-js
 ```
 
 After this just run the container and bind the port with
 
 ```bash
-docker run js-polyfill-docker -p 8801:8801
+docker run docker-polyfill-js -p 8801:8801
 ```
 
 ## Resources
