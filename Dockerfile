@@ -16,7 +16,7 @@ RUN \
 	apk del build
 ENV PORT 8801
 
-EXPOSE ${PORT}
+EXPOSE 8801
 
 CMD ["/bin/start_server.sh", "server/index.js"]
 # Use to debug if things don't start:
