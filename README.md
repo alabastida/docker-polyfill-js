@@ -13,7 +13,7 @@ docker build . -t docker-polyfill-js
 After this just run the container and bind the port with
 
 ```bash
-docker run docker-polyfill-js -p 8801:8801
+docker run docker-polyfill-js
 ```
 
 ## Resources
@@ -26,4 +26,4 @@ The official [polyfill.io](https://polyfill.io/v2/docs/) service maintained by t
 
 ## License
 
-*js-polyfill-docker* is realeased under the [MIT License](./LICENSE).
+*docker-polyfill-js* is realeased under the [MIT License](./LICENSE).
