@@ -26,4 +26,4 @@ The official [polyfill.io](https://polyfill.io/v2/docs/) service maintained by t
 
 ## License
 
-*js-polyfill-docker* is realeased under the [MIT License](./LICENSE).
+*docker-polyfill-js* is realeased under the [MIT License](./LICENSE).
