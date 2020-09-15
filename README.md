@@ -13,7 +13,7 @@ docker build . -t docker-polyfill-js
 After this just run the container and bind the port with
 
 ```bash
-docker run docker-polyfill-js -p 8801:8801
+docker run docker-polyfill-js
 ```
 
 ## Resources
